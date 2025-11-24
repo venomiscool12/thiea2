@@ -1,0 +1,7 @@
+.gitignore
+# Ignore virtual environment
+bananas/
+Lib/
+Scripts/
+*.exe
+*.dist-info/
